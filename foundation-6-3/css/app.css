@@ -1,0 +1,61 @@
+h1 {
+	color: #FE5F55;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	font-size: 8em;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.fa {
+	color: #FFE66D;
+	padding-top: 1em;
+	text-shadow: -2px -2px 0 #484A47;
+}
+
+.continue {
+	color: #FFE66D;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: -2px -2px 0 #484A47;
+}
+
+.blogging {
+	color: #FE5F55;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: -2px -2px 0 #484A47;
+
+}
+
+.home {
+	width: 100%;
+	height: 750px;
+	background-image: url("../img/bg1.jpg");
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	text-align: center;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.brand {
+	text-align: center;
+	padding-top: 1em;
+	text-shadow: -2px -2px 0 #484A47;
+}
+
+
+.input-group-rounded .input-group-field {
+  border-radius: 5000px 0 0 5000px;
+  padding-left: 1rem;
+}
+
+.input-group-rounded .input-group-button .button {
+  border-radius: 0 5000px 5000px 0;
+  font-size: 0.8rem;
+}
