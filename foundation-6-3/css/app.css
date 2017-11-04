@@ -58,6 +58,14 @@ p {
 	text-shadow: -2px -2px 0 #484A47;
 }
 
+.menu-section {
+	background-color: #FE5F55;
+}
+
+.menu-link a {
+	color: white;
+}
+
 .menu-link {
 	padding-left: 3em;
 }
@@ -77,4 +85,9 @@ p {
 	 text-align: center;
 	 padding-top: 1em;
 	 padding-bottom: 1em;
+}
+
+footer {
+	background-color: #FE5F55;
+	height: 50px;
 }
