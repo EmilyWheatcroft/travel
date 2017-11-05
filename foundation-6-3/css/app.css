@@ -91,3 +91,24 @@ footer {
 	background-color: #FE5F55;
 	height: 50px;
 }
+
+.post-head {
+	height: 400px;
+	background-image: url("../img/bg1.jpg");
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	text-align: center;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.post-name {
+	color: #FE5F55;
+	text-shadow: -2px -2px 0 #484A47;
+	text-align: left;
+	padding-top: 15%;
+}
